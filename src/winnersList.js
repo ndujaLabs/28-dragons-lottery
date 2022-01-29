@@ -29,9 +29,9 @@ async function main() {
       if (result.length === 28) {
         result = frontRunners
       }
-      if (frontRunners.length === 28) {
-        break
-      }
+      // if (frontRunners.length === 28) {
+      //   break
+      // }
       taken[item.name] = true
     }
   }
