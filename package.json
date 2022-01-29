@@ -4,7 +4,9 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"get-list": "node src/eligibleMembers.js",
+		"get-winners": "node src/winnersList.js"
 	},
 	"author": "Francesco Sullo <francesco@sullo.co>",
 	"license": "MIT",

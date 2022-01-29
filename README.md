@@ -29,14 +29,14 @@ The array with all the names is in `/data/eligible-members-by-level.json`. Since
 
 If you like, you can regenerate the file running 
 ```
-node src/eligibleMembers.js
+npm run get-list
 ```
 
 The data of block number `tbd` on Ethereum main net is `tbd`. It is in the `/data/snapshot.json` file
 
 To generate the final list of winners run
 ```
-node src/winnersList.js
+npm run get-winners
 ```
 It will produce a file `/output/winners.txt` with the 28 winners.
 
