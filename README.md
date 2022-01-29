@@ -1,6 +1,14 @@
 # Everdragons2 DAO Eggs lottery
 A repo to extract the winners and validate the results
 
+## Install
+
+If you do not have node installed, please install it. Then install the dependencies
+
+```
+npm install
+```
+
 ## Instructions
 
 The list of all the members with level >= 2 is in `/data/member-at-levels-greater-than-one.csv`
@@ -21,7 +29,7 @@ The array with all the names is in `/data/eligible-members-by-level.json`. Since
 
 If you like, you can regenerate the file running 
 ```
-node src/getEligibleArray.js
+node src/eligibleMembers.js
 ```
 
 The data of block number `tbd` on Ethereum main net is `tbd`. It is in the `/data/snapshot.json` file
