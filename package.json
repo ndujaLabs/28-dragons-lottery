@@ -1,0 +1,20 @@
+{
+	"name": "28-dragons-lottery",
+	"version": "0.0.1",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Francesco Sullo <francesco@sullo.co>",
+	"license": "MIT",
+	"devDependencies": {
+		"csv-parse": "^4.16.3",
+		"ethers": "^5.5.3",
+		"fs-extra": "^10.0.0",
+		"fspath": "^0.15.0"
+	},
+	"dependencies": {
+		"@ndujalabs/metashu": "^0.1.0"
+	}
+}
