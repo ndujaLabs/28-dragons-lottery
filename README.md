@@ -94,8 +94,42 @@ Unisonico.eth
 FlyLikeADragon
 SandroVar
 ```
-
 **Congratulations!**
+
+### UPDATE Feb 2, 2022
+
+To get their tokens, the winners had to claim it by Feb 2, 2022 at 11 am PST.
+
+The following 9 members out of the 28 winners did not claim by the deadline, and have lost their spot:
+
+```
+lops0n
+happsdream
+Merkl
+[GD] GucciLo
+TiGeR
+ariaxiz
+Legionz
+AdriyansayhSaid
+SandroVar
+```
+
+They are replaced with the next in line in the front-runners list. Excluding users who are no more members of the Everdragons2  Discord server, the 9 winners are:
+
+```
+gabakimu
+[PACK]Quiddon
+ryan
+Ein
+Ⓐⓙⓐⓨ CryptozEuphoria
+boredmomma
+[LaTR] 12tones | Executive
+! [LATR] Serphina
+1Proof_fan
+```
+**Congratulations!**
+
+Again, to be confirmed as a winner, they will need to claim their token, sending their wallet in the support channel on the Everdragons2 Discord server, by Feb 4, 2022 at 11 am PST.
 
 ## Copyright
 
