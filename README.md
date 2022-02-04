@@ -131,6 +131,27 @@ boredmomma
 
 Again, to be confirmed as a winner, they will need to claim their token, sending their wallet in the support channel on the Everdragons2 Discord server, by Feb 4, 2022 at 11 am PST.
 
+### Update Feb 4, 2022
+
+4 winners of the lottery, did not claim by the deadline. Here the members removed now that have lost their spot:
+```
+gabakimu
+ryan
+Ⓐⓙⓐⓨ CryptozEuphoria
+! [LATR] Serphina
+```
+
+The next in line from the front runners list, and so the new 4 winners 🎉  are:
+```
+[GD] GrΞ2nDragon
+AMG
+[PACK] Salvatore M.
+Anh
+```
+Congrats to these 4 new winners 🥳
+
+To receive an egg the winners must confirm their wallets by Feb 6, 2022 at 11 am PST.
+
 ## Copyright
 
 2022 Nduja Labs LLC
