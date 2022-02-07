@@ -100,7 +100,7 @@ SandroVar
 
 To get their tokens, the winners had to claim it by Feb 2, 2022 at 11 am PST.
 
-The following 9 members out of the 28 winners did not claim by the deadline, and have lost their spot:
+The following 10 members out of the 28 winners did not claim by the deadline, and have lost their spot:
 
 ```
 lops0n
@@ -108,13 +108,14 @@ happsdream
 Merkl
 [GD] GucciLo
 TiGeR
+rcappe
 ariaxiz
 Legionz
 AdriyansayhSaid
 SandroVar
 ```
 
-They are replaced with the next in line in the front-runners list. Excluding users who are no more members of the Everdragons2  Discord server, the 9 winners are:
+They are replaced with the next in line in the front-runners list. Excluding users who are no more members of the Everdragons2  Discord server, the 10 winners are:
 
 ```
 gabakimu
@@ -126,6 +127,7 @@ boredmomma
 [LaTR] 12tones | Executive
 ! [LATR] Serphina
 1Proof_fan
+[GD] GrΞ2nDragon
 ```
 **Congratulations!**
 
@@ -143,14 +145,65 @@ ryan
 
 The next in line from the front runners list, and so the new 4 winners 🎉  are:
 ```
-[GD] GrΞ2nDragon
 AMG
 [PACK] Salvatore M.
 Anh
+Kallilinux
 ```
 Congrats to these 4 new winners 🥳
 
 To receive an egg the winners must confirm their wallets by Feb 6, 2022 at 11 am PST.
+
+### Update Feb 6, 2022
+
+1 winner of the lottery, did not claim by the deadline. Here the member removed now that has lost his spot:
+```
+AMG
+```
+
+The next in line from the front runners list, and so the new winner 🎉  is:
+```
+Peerless
+
+```
+Congrats to the last new winner. 🥳
+
+All the winners have confirmed their wallet on Feb 6, 2022. Here is the final list of the winners:
+
+### The final list
+The members who will receive an egg:
+```
+TBA | Nick
+ChaosPixelOG
+Dragon Farmer
+BaiBorz | NT S2 Citizen 192
+brain genius
+reedciccio
+Sherv
+Ultros
+Chriss
+bullets4dinner✨ Shiny Shards
+BECO
+cryptoalfred - Andrea
+F3rg
+fLabber
+lil Калик
+Granitore
+Unisonico.eth
+FlyLikeADragon
+Giuseppe Cardinale Ciccotti
+Ein
+boredmomma
+12tones
+1Proof_fan
+GrΞ2nTea (+100% E2 Production)
+Salvatore Montana
+Anh
+Kallilinux
+Peerless
+```
+**Congratulations!**
+
 
 ## Copyright
 
