@@ -154,7 +154,7 @@ To receive an egg the winners must confirm their wallets by Feb 6, 2022 at 11 am
 
 ## Copyright
 
-2022 Nduja Labs LLC
+2022 [Nduja Labs LLC](https://ndujalabs.com)
 
 ## License
 MIT
