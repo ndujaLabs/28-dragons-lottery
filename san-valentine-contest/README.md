@@ -2,7 +2,7 @@
 
 With reference to [this tweet](https://twitter.com/everdragons2/status/1493351136543141888)
 
-<img src="https://github.com/ndujaLabs/28-dragons-lottery/blob/main/assets/sanValentineTweet" alt="tweet"/>
+<img src="https://github.com/ndujaLabs/28-dragons-lottery/blob/main/assets/sanValentineTweet.jpg" alt="tweet"/>
 
 The participants are wallet who minted tokens starting for transaction
 
