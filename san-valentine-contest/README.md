@@ -10,9 +10,9 @@ The participants are wallet who minted tokens starting for transaction
 
 to transaction
 
-[0xccc4cc84de8f834a72b9ca9d36868fe4143c593cb40b11cc8909616636613953](https://polygonscan.com/tx/0xccc4cc84de8f834a72b9ca9d36868fe4143c593cb40b11cc8909616636613953)
+[0x86deb81a209b897d21f178366deeb834f6e07cfdb2095a4794e4473cf38ff0d5](https://polygonscan.com/tx/0x86deb81a209b897d21f178366deeb834f6e07cfdb2095a4794e4473cf38ff0d5)
 
-The token IDs minted in this period goes from 477 to 487.
+The token IDs minted in this period goes from 477 to 490.
 
 In the file 'tokens.json' there is an array of the IDs.
 
