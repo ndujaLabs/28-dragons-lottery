@@ -11,19 +11,18 @@ async function main() {
   const options = {
     input,
     output,
-    salt: require('../data/snapshot.json').hash
+    salt: require('./snapshot.json').hash
   }
 
   const metashu = new Metashu(options)
   await metashu.shuffle()
-
   let result = []
   const shuffleData = require('./shuffled-data.json')
   console.log(shuffleData)
   let i = 0
   for (let item of shuffleData) {
       result.push(item)
-      if (++i === 2) {
+      if (++i === 3) {
         break
       }
   }

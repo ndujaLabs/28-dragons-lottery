@@ -23,7 +23,18 @@ node san-valentine-contest/sanValentineWinners
 ```
 after putting the data of the block in `/san-valentine-contest/snapshot.json`.
 
-# Update with the results (coming soon)
+# Update with the results
+
+The has of block is
+
+0xea64b0584af16e03a9526074901a7802115583c8fbea6170452087fcb4e49842
+
+And the winners are the onwer of tokens:
+
+484, 481 and 478
+
+Congratulations!
+
 
 
 
