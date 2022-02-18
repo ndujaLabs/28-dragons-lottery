@@ -31,7 +31,11 @@ The has of block is
 
 And the winners are the onwer of tokens:
 
-484, 481 and 478
+484 - 0xfe13178f8ea0c37de96864acda38ed14d249d344
+
+481 - 0x3bd5e2790766defce5ae59a43ba2ae617aa3c1a0 
+
+478 - 0xf5324be5db41ba9e464e14f3940eccde98993682
 
 Congratulations!
 
